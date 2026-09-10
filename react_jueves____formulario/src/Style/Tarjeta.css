@@ -1,0 +1,19 @@
+.Centrar {
+    display: flex;
+    flex-direction: row;
+    width: 60%;
+    height: 200px;
+    background: rgb(211, 248, 211);
+    border: 5px solid rgb(0, 132, 255);
+    gap: 20px;
+}
+
+.Orde {
+    flex-direction: column;
+}
+
+.CentraC {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
