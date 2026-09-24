@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "title": "Pokémon Rojo y Azul",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/6.png",
+    "descripcion": "Los juegos clásicos que iniciaron todo en la región de Kanto con la primera generación.",
+    "color": "#E53E3E"
+  },
+  {
+    "id": 2,
+    "title": "Pokémon Oro y Plata",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/250.png",
+    "descripcion": "Aventura en la región de Johto introduciendo el ciclo de día/noche y 100 nuevos Pokémon.",
+    "color": "#D69E2E"
+  },
+  {
+    "id": 3,
+    "title": "Pokémon Esmeralda",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/384.png",
+    "descripcion": "Explora la región de Hoenn con el legendario Rayquaza y el Frente de Batalla.",
+    "color": "#38A169"
+  },
+  {
+    "id": 4,
+    "title": "Pokémon Platino",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/487.png",
+    "descripcion": "Viaja al Mundo Distorsión en la región de Sinnoh y enfrenta al legendario Giratina.",
+    "color": "#718096"
+  }
+]
